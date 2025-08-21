@@ -1,22 +1,49 @@
-.image{
+.image {
     border: 2px;
     border-radius: 1.5rem;
     background: rgb(228, 206, 206);
     justify-content: center;
     display: flex;
-    
+    margin-bottom: 7rem;
+
 }
 
-img{
+img {
     margin: 7px;
     width: 180px;
 }
-h1{
+
+h1 {
+    text-align: center;
+    background: rgb(150, 142, 142);
+    color: white;
+    height: 35px;
+     margin-top: 0;
+   
+}
+
+nav {
+    background: rgb(46, 48, 49);
+    height: 30px;
+    padding-top: 0;
+    margin-top: 1px;
+}
+
+.mainProduct {
     text-align: center;
 }
-nav{
-    text-align: center;
+a{
+    margin: 8rem;
+    color: rgb(245, 244, 242);
 }
-.mainProduct{
-      text-align: center;
+
+figcaption{
+    text-align: start;
+    color: rgb(120, 14, 241);
+}
+body{
+    background-color: rgb(226, 133, 133);
+}
+*{
+    color: white;
 }
